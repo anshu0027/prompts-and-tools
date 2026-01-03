@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Prompts & Vibe Tools
 
-## Getting Started
+**Prompts & Vibe Tools** is a specialized web application designed to serve as a central hub for creative prompts and Vibe coding resources. It acts as a comprehensive playbook for designers, prompt engineers, and developers looking to enhance their generative workflows.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project bridges the gap between creative ideation and technical implementation by offering a curated, browsable collection of resources. Whether you are looking for specific prompt patterns or tools to integrate Vibe coding standards, this application streamlines the discovery process.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Curated Prompt Playbook**: Access a structured collection of creative prompts designed for various use cases.
+- **Search & Discovery**: Easily find specific prompts or resources through grouped categories and search functionality.
+- **Vibe Tool Directory**: Explore a hand-picked directory of tools and projects related to Vibe coding and development.
+- **Preview & Apply**: Quickly preview prompt patterns and apply them directly to your projects.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Target Audience
 
-## Learn More
+- **Designers**: Seeking inspiration and consistent prompt structures for generative art or UI design.
+- **Prompt Engineers**: Looking to refine techniques and discover new patterns.
+- **Developers**: Needing resources and tools to build or integrate Vibe-compatible solutions.
 
-To learn more about Next.js, take a look at the following resources:
+## Project Goals
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Streamline Workflow**: Reduce the time spent searching for effective prompts and tools.
+- **Enhance Quality**: Provide high-quality, curated resources to ensure better outputs.
